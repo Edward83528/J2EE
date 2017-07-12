@@ -1,4 +1,4 @@
-package web;
+package servlet_example;
 
 public class web07_Model {
 	private int x, y;
